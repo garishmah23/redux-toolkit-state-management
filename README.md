@@ -93,9 +93,10 @@ npm start
 
 ## 📷 Application Preview
 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-08-04 162231.png
+<img width="1917" height="1013" alt="Screenshot 2026-08-04 162231" src="https://github.com/user-attachments/assets/2c604a4c-7ed8-4556-be59-e4e6dfc09201" />
 
-c:\Users\hp\Pictures\Screenshots\Screenshot 2026-08-04 162344.png
+<img width="1917" height="1016" alt="Screenshot 2026-08-04 162344" src="https://github.com/user-attachments/assets/948444f6-8cb4-421d-b577-b0a4497848cd" />
+
 
 ### Home Screen
 - Create a new post
